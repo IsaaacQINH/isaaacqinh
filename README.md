@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Isaaac0001?color=09f&label=%40Isaaac&style=flat-square)(https://twitter.com/Isaaac0001)
+![Twitter Follow(https://img.shields.io/twitter/follow/Isaaac0001?color=09f&label=%40Isaaac&style=flat-square)](https://twitter.com/Isaaac0001)
 
 <!--
 **IsaaacQINH/isaaacqinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
