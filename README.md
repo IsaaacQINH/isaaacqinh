@@ -6,6 +6,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaacqinh&layout=compact&hide=html" alt="isaaacqinh" /></p>
 ![[current project]()](https://github-readme-stats.vercel.app/api/pin/?username=isaaacqinh&repo=bug-free-palm-tree&theme=buefy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isaaacqinh)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=isaaacqinh&show_icons=true" alt="isaaacqinh" /></p>
