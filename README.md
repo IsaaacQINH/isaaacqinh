@@ -4,6 +4,6 @@
 [![Twitch Status](https://img.shields.io/twitch/status/isaaacgg?style=flat-square)](https://twitch.tv/isaaacgg)
 [![Visitors](https://komarev.com/ghpvc/?username=isaaacqinh&color=blue&style=flat-square)](https://github.com/isaaacqinh)  
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaacqinh&layout=compact&hide=html)](https://github.com/isaaacqinh)
-
+[![Isaaacs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaacqinh&layout=compact&hide=html)](https://github.com/isaaacqinh)
+[![current project](https://github-readme-stats.vercel.app/api/pin/?username=isaaacqinh&repo=bug-free-palm-tree&theme=buefy)]
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=isaaacqinh&show_icons=true" alt="isaaacqinh" /></p>
