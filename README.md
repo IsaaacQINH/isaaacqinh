@@ -7,11 +7,10 @@
 ## Table of Contents
 <details>
   <summary>  </summary>
-  <p>
+    
     #### About me
-    #### Current Project
-    #### Guthub Stats
-  </p>
+    Current Project
+    Guthub Stats
 </details>
 
 ## Current Project
