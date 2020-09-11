@@ -8,9 +8,9 @@
 <details>
   <summary>Contents</summary>
     
-  0. About me
-  1. Current Project
-  2. Guthub Stats
+  - [About me](#about-me)
+  - [Current Project](#current-project)
+  - [Guthub Stats](#github-stats)
 </details>
 
 ## Current Project
