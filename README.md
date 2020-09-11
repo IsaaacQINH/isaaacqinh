@@ -7,9 +7,11 @@
 ## Table of Contents
 <details>
   <summary>  </summary>
-  <p>1. [About me](#about-me)</p>
-  2. [Current Project](#current-project)
-  3. [Github Stats](#github-stats)
+  <p>
+    #### About me
+    #### Current Project
+    #### Guthub Stats
+  </p>
 </details>
 
 ## Current Project
