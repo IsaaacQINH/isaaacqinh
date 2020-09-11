@@ -6,11 +6,12 @@
 
 ## Table of Contents
 <details>
-  <summary>  </summary>
+  <summary>Contents</summary>
     
-    0. About me
-    1. Current Project
-    2. Guthub Stats
+  ## ---
+  0. About me
+  1. Current Project
+  2. Guthub Stats
 </details>
 
 ## Current Project
