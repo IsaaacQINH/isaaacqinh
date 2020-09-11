@@ -8,7 +8,6 @@
 <details>
   <summary>Contents</summary>
     
-  ## ---
   0. About me
   1. Current Project
   2. Guthub Stats
