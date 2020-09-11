@@ -6,11 +6,10 @@
 
 ## Table of Contents
 <details>
-  <summary>
+  <summary>  </summary>
   1. [About me](#about-me)
   2. [Current Project](#current-project)
   3. [Github Stats](#github-stats)
-  </summary>
 </details>
 
 ## Current Project
