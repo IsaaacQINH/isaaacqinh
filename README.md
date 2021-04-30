@@ -14,7 +14,7 @@
 </details>
 
 ## Current Project
-[![current project](https://github-readme-stats.vercel.app/api/pin/?username=isaaacqinh&repo=bug-free-palm-tree&theme=tokyonight)](https://github.com/isaaacqinh/bug-free-palm-tree)
+[![current project](https://github-readme-stats.vercel.app/api/pin/?username=isaaacqinh&repo=mkz-nl-obs.&theme=tokyonight)](https://github.com/isaaacqinh/mkz-nl-obs)
 
 ## Github Stats
 [![Isaaacs Stats](https://github-readme-stats.vercel.app/api?username=isaaacqinh&show_icons=true&theme=tokyonight)](https://github.com/isaaacqinh)
