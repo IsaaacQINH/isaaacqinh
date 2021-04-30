@@ -9,12 +9,8 @@
   <summary>Contents</summary>
     
   - [About me](#about-me)
-  - [Current Project](#current-project)
   - [Guthub Stats](#github-stats)
 </details>
-
-## Current Project
-[![current project](https://github-readme-stats.vercel.app/api/pin/?username=isaaacqinh&repo=mkz-nl-obs.&theme=tokyonight)](https://github.com/isaaacqinh/mkz-nl-obs)
 
 ## Github Stats
 [![Isaaacs Stats](https://github-readme-stats.vercel.app/api?username=isaaacqinh&show_icons=true&theme=tokyonight)](https://github.com/isaaacqinh)
