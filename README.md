@@ -1,7 +1,4 @@
 ## About me
-[
-![Twitter Follow](https://img.shields.io/twitter/follow/york_isc?color=09f&label=%40york&style=flat-square)](https://twitter.com/york_isc)
-[![Twitch Status](https://img.shields.io/twitch/status/yorkffs?style=flat-square)](https://twitch.tv/yorkffs)
 [![Visitors](https://komarev.com/ghpvc/?username=isaaacqinh&color=blue&style=flat-square)](https://github.com/isaaacqinh)
 
 ## Github Stats
